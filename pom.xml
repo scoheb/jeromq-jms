@@ -10,7 +10,7 @@
   <name>jeromq-jms</name>
   <description>ZeroMQ implementation of the JMS API</description>
   
-  <url>https://github.com/zeromq/jeromq-jms</url>
+  <url>https://github.com/scoheb/jeromq-jms</url>
 
   <licenses>
     <license>
@@ -20,9 +20,9 @@
   </licenses>
 
   <scm>
-    <url>git@github.com:zeromq/jeromq-jms.git</url>
-    <connection>scm:git:git@github.com:zeromq/jeromq-jms.git</connection>
-    <developerConnection>scm:git:git@github.com:zeromq/jeromq-jms.git</developerConnection>
+    <url>git@github.com:scoheb/jeromq-jms.git</url>
+    <connection>scm:git:git@github.com:scoheb/jeromq-jms.git</connection>
+    <developerConnection>scm:git:git@github.com:scoheb/jeromq-jms.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
